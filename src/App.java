@@ -3,6 +3,7 @@
 public class App {
     public static void main(String[] args) {
         int i = 15;
+        String version = "rc1";
     }
 
     public void devMethodA() {
