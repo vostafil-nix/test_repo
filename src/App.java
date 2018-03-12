@@ -8,4 +8,8 @@ public class App {
     public void devMethodA() {
         System.out.println("devMethodA");
     }
+
+    public void devMethodB() {
+        System.out.println("devMethodB");
+    }
 }
